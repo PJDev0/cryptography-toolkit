@@ -32,7 +32,6 @@ A comprehensive command-line tool for learning and applying modern cryptography 
 
 ### Setup
 
-1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-toolkit.git
 cd crypto-toolkit
@@ -88,4 +87,5 @@ IMPORTANT: This tool is for educational purposes. For production use:
 License
 MIT License - See LICENSE file for details.
 Acknowledgments
+
 Based on the freeCodeCamp "Cryptography for Beginners - Full Python Course" tutorial.
