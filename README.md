@@ -33,7 +33,7 @@ A comprehensive command-line tool for learning and applying modern cryptography 
 ### Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/crypto-toolkit.git
+git clone https://github.com/PJDev0/crypto-toolkit.git
 cd crypto-toolkit
 python -m venv venv
 venv\Scripts\activate  # Windows
